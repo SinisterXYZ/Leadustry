@@ -1,12 +1,14 @@
 # Leadustry
 A Work in Progress Mindustry mod that adds lead-themed content.
 
-# New Content
+# New Turrets
 
 Trio - A turret with three barrels that is basically a redesigned Duo.
 Requirements: Capture Frozen Forest, Research Titanium
 Research Cost: 400 Lead, 300 Titanium
 Build Cost: 60 Lead, 30 Titanium
+
+# New Defenses
 
 Lead Wall - A wall made out of lead
 Requirements: Research Large Copper Wall
@@ -18,10 +20,7 @@ Requirements: Research Lead Wall
 Research Cost: 1600 Lead
 Build Cost: 24 Lead
 
-Lead Conveyor - A conveyor with slightly more health than normal.
-Requirements: Capture Frozen Forest
-Research Cost: 1000 Lead
-Build Cost: 1 Lead
+# New Crafters
 
 Lead Filter - A crafter that turns Sand into Lead using power
 Requirements: Research Silicon Smelter, Capture Frozen Forest, Research Titanium
@@ -32,3 +31,10 @@ Titanium Filter - A crafter that turns Scrap and Cryofluid into Titanium using p
 Requirements: Research Lead Filter, Research Cryofluid, Research Scrap, Capture Ruinous Shores
 Research Cost: 1000 Silicon, 750 Titanium, 300 Scrap, 100 Metaglass
 Build Cost; 80 Silicon, 40 Lead, 40 Metaglass
+
+# New Miscellaneous
+
+Lead Conveyor - A conveyor with slightly more health than normal.
+Requirements: Capture Frozen Forest
+Research Cost: 1000 Lead
+Build Cost: 1 Lead
