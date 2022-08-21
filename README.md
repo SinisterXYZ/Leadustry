@@ -1,7 +1,7 @@
 # Leadustry
 A Work in Progress Mindustry mod that adds lead-themed content.
 
-New Content:
+# New Content
 
 Trio - A turret with three barrels that is basically a redesigned Duo.
 Requirements: Capture Frozen Forest, Research Titanium
